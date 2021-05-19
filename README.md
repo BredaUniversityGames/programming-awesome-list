@@ -80,7 +80,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 
-### ESC
+### ECS
 
 #### C / C++
 - [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
