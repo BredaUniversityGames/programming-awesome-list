@@ -281,6 +281,7 @@ School of Computing, University of Utah.
 - [Pixels? Triangles? What’s the difference? — How (I think) Nanite renderes a demo with 10¹¹ tris](https://www.reddit.com/r/hardware/comments/gkcd9b/pixels_triangles_whats_the_difference_how_i_think/)
 - [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
 - [Tutorials and Documents by Anders Lindqvist](https://www.breakin.se/learn/index.html)
+- [Publications by Peter-Pike Sloan](https://www.ppsloan.org/publications/)
 
 *Data Oriented Design*
 
