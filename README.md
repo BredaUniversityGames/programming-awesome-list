@@ -3,26 +3,44 @@
 A curated list of useful tools, libraries, resources all around the topic of game development / game programming for the [Games](https://www.buas.nl/en/games) course at [Breda University of Applied Sciences](https://www.buas.nl/en/games).
 
 ## Content
-- [Tools](#tools)
-- [Libraries & Frameworks](#libraries--frameworks)
-  - [Graphics](#graphics)
-  - [ECS](#ecs)
-  - [Scripting Languages](#scripting-languages)
-  - [C interface languages](#c-interface-languages)
-  - [AI](#ai)
-  - [Math](#math)
-  - [XML Json](#json-xml)
-  - [Physics](#physic)
-  - [Networking](#networking)
-  - [Other](#other)
- - [Engines Plugins](#engines-plugins)
- - [Resources](#resources)
-    - [Video](#videos)
+- [BUas Game Programming awesome list](#buas-game-programming-awesome-list)
+  - [Content](#content)
+  - [Tools](#tools)
+  - [Libraries & Frameworks:](#libraries--frameworks)
+    - [Graphics](#graphics)
+      - [C / C++](#c--c)
+      - [rust](#rust)
+    - [ECS](#ecs)
+      - [C / C++](#c--c-1)
+      - [rust](#rust-1)
+    - [C](#c)
+    - [Scripting Languages](#scripting-languages)
+    - [C Interface languages](#c-interface-languages)
+    - [Math](#math)
+      - [C++](#c-1)
+    - [JSON, XML](#json-xml)
+      - [C++](#c-2)
+    - [Physic](#physic)
+      - [C++](#c-3)
+    - [AI](#ai)
+    - [Networking](#networking)
+    - [C/C++](#cc)
+    - [rust](#rust-2)
+    - [Other](#other)
+      - [C# / Unity](#c--unity)
+      - [C / C++](#c--c-2)
+        - [C++ Common Libs](#c-common-libs)
+      - [Web Technolgy](#web-technolgy)
+  - [Engines Plugins](#engines-plugins)
+    - [Unreal Engine Plugins](#unreal-engine-plugins)
+    - [Unity Plugins](#unity-plugins)
+  - [Resources](#resources)
+    - [Videos](#videos)
     - [Books](#books)
-    - [Articles](#articles--papers)
+    - [Articles / Papers](#articles--papers)
     - [Websites, Blogs, Webtools](#websites-blogs-webtools)
     - [Courses](#courses)
-  - [Other Awesome lists](#other-awesome-lists)
+  - [Other (Awesome) lists](#other-awesome-lists)
 
 ## Tools
 - [Jenkins](https://www.jenkins.io/) - Easy to install CI and CD solution.
@@ -79,6 +97,9 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 #### rust
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
+- [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - Memory allocator written in Rust for Vulkan and DX12
+- [rspirv-reflect](https://github.com/Traverse-Research/rspirv-reflect) - SPIR-V reflection library written in Rust
+- [hassle-rs](https://github.com/Traverse-Research/hassle-rs) - Rust bindings for the DirectXShaderCompiler library
 
 ### ECS
 
