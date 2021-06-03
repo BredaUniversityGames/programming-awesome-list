@@ -79,6 +79,9 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 #### rust
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
+- [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - Memory allocator written in Rust for Vulkan and DX12
+- [rspirv-reflect](https://github.com/Traverse-Research/rspirv-reflect) - SPIR-V reflection library written in Rust
+- [hassle-rs](https://github.com/Traverse-Research/hassle-rs) - Rust bindings for the DirectXShaderCompiler library
 
 ### ECS
 
