@@ -74,6 +74,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
  - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
 - [Assimp](https://github.com/assimp/assimp) The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 - [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level graphics library and rendering framework
+- [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) Easy to integrate Vulkan memory allocation library
 
 
 #### rust
@@ -361,6 +362,8 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
 - [learnopengl.com](https://learnopengl.com/) A great place to start learning OpenGL
 - [opengl-tutorial.org](http://www.opengl-tutorial.org/) A great collection of OpenGL Tutorials
 - [Scratchapixel 2.0](https://www.scratchapixel.com/) Learn Computer Graphics From Scratch!
+- [vulkan-tutorial.com](https://vulkan-tutorial.com/) - A collection of vulkan tutorials
+- [VulkanGuide](https://vkguide.dev/) - The focus of this guide is to understand Vulkan correctly, and act as a stepping stone for then working in your own projects
 
 *Web tools*
 - [Compiler Explorer](https://godbolt.org/) - lets you compile many different languages such as C,C++ or rust and inspect the Assembly or test
