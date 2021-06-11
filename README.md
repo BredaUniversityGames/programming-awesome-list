@@ -83,6 +83,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - Memory allocator written in Rust for Vulkan and DX12
 - [rspirv-reflect](https://github.com/Traverse-Research/rspirv-reflect) - SPIR-V reflection library written in Rust
 - [hassle-rs](https://github.com/Traverse-Research/hassle-rs) - Rust bindings for the DirectXShaderCompiler library
+- [blue-noise-sampler](https://github.com/Jasper-Bekkers/blue-noise-sampler) - Low-Discrepancy Sampler that distributes Monte Carlo errors as a blue noise in screen space.
 
 ### ECS
 
