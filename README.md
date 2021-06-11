@@ -182,6 +182,8 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [quill](https://github.com/odygrd/quill) Asynchronous Low Latency C++ Logging Library
 - [rocket](https://github.com/tripleslash/rocket) rocket - Fast single header signal/slots library for C++
 - [cxxopts](https://github.com/jarro2783/cxxopts) Lightweight C++ command line option parser
+- [cgltf](https://github.com/jkuhlmann/cgltf) Single-file glTF 2.0 loader and writer written in C99
+- [tinygltf](https://github.com/syoyo/tinygltf) Header only C++11 tiny glTF 2.0 library
 
 ##### C++ Common Libs
 - [EASTL](https://github.com/electronicarts/EASTL) Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
