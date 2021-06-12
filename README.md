@@ -75,7 +75,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [Assimp](https://github.com/assimp/assimp) The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 - [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level graphics library and rendering framework
 - [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) Easy to integrate Vulkan memory allocation library
-
+- [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) Optimized shader-based features aimed at improving rendering quality and performance.
 
 #### rust
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code
@@ -83,6 +83,9 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - Memory allocator written in Rust for Vulkan and DX12
 - [rspirv-reflect](https://github.com/Traverse-Research/rspirv-reflect) - SPIR-V reflection library written in Rust
 - [hassle-rs](https://github.com/Traverse-Research/hassle-rs) - Rust bindings for the DirectXShaderCompiler library
+- [blue-noise-sampler](https://github.com/Jasper-Bekkers/blue-noise-sampler) - Low-Discrepancy Sampler that distributes Monte Carlo errors as a blue noise in screen space.
+- [ash](https://github.com/MaikKlein/ash) - Vulkan bindings for rust
+- [windows-rs](https://github.com/microsoft/windows-rs) - Windows bindings for rust
 
 ### ECS
 
