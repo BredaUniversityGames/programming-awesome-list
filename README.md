@@ -223,6 +223,7 @@ School of Computing, University of Utah.
 - [Cpp Now](https://www.youtube.com/user/BoostCon)
 - [CopperSpice](https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ) Move Semantics, Multi Threading, C++17, Templates, Modern C++
 - [Building a C++ Reflection System in One Weekend Using Clang and LLVM - Arvid Gerstmann](https://www.youtube.com/watch?v=XoYVeduK4yI)
+- [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
 
 *Game Dev*
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
