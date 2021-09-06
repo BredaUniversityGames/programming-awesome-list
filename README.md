@@ -377,6 +377,7 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
 - [Quick Benchmarks](https://quick-bench.com/) Quick benchmarks online
 - [Quick Builld](https://build-bench.com/#) Check build times of your code
 - [Shader Toy](https://www.shadertoy.com/) Play with shaders in the browser
+- [Shader Playground](http://shader-playground.timjones.io/) - lets you compile HLSL with different compilers and inspect the intermediate format
 
 *Others*
 - [gafferongames](https://gafferongames.com/) All around Network programming
