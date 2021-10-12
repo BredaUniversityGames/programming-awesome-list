@@ -410,3 +410,4 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
   - [Memory Bus](https://github.com/MattPD/cpplinks/blob/master/comparch.micro.channels.md#memory-bus) a list by [MattPD](https://github.com/MattPD)
  - [gamedev libraries](https://github.com/raizam/gamedev_libraries) collection of C / C++ libs for game devs
  - [Awesome CMake](https://github.com/onqtam/awesome-cmake) A curated list of awesome CMake resources, scripts, modules and examples.
+ - [The Aggregate](http://aggregate.org/)
