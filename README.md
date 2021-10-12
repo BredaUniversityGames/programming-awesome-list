@@ -293,6 +293,7 @@ School of Computing, University of Utah.
 - [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
 - [Tutorials and Documents by Anders Lindqvist](https://www.breakin.se/learn/index.html)
 - [Publications by Peter-Pike Sloan](https://www.ppsloan.org/publications/)
+- [Advanced Shader Programming on GCN](https://gpuopen.com/wp-content/uploads/2017/03/GDC2017-Advanced-Shader-Programming-On-GCN.pdf)
 
 *Data Oriented Design*
 
