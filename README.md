@@ -314,6 +314,7 @@ School of Computing, University of Utah.
 - [Perlin Noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) khanacademy article
 - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm)
 - [Open-sourcing F14 for faster, more memory-efficient hash tables](https://engineering.fb.com/2019/04/25/developer-tools/f14/)
+- [CPU Caches and Why You Care](https://www.aristeia.com/TalkNotes/ACCU2011_CPUCaches.pdf) Scott Meyers
 
 *Physics*
 - [Physics Info](https://physics.info/)
