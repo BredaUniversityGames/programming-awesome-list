@@ -374,6 +374,7 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
 - [vulkan-tutorial.com](https://vulkan-tutorial.com/) - A collection of vulkan tutorials
 - [VulkanGuide](https://vkguide.dev/) - The focus of this guide is to understand Vulkan correctly, and act as a stepping stone for then working in your own projects
 - [tellusim engine blog](https://tellusim.com/blog/) - cool GPU driven blog posts: Blue noise, benchmarks between GPU's, Raytracing, Animations etc.
+- [The Danger Zone](https://therealmjp.github.io/) Blog of Matt Pettineo (Lead graphics and engine programmer at Ready At Dawn Studios)
 
 *Web tools*
 - [Compiler Explorer](https://godbolt.org/) - lets you compile many different languages such as C,C++ or rust and inspect the Assembly or test
