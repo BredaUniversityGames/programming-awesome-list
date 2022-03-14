@@ -47,6 +47,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [Tiled Map Editor](https://www.mapeditor.org/) A flexible level editor 2D tiled map
 - [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) rust-analyzer is an experimental modular compiler frontend for the Rust language.
 - [RenderDoc](https://renderdoc.org/) Render Debugger
+  - [Where is my Draw](https://github.com/baldurk/renderdoc-contrib/tree/main/baldurk/whereismydraw) Addon for RenderDoc
 - [NVIDIA® Nsight™ Graphics](https://developer.nvidia.com/nsight-graphics) is a standalone developer tool that enables you to debug, profile, and export frames built with Direct3D (11, 12, DXR), Vulkan (1.2, NV Vulkan Ray Tracing Extension), OpenGL, OpenVR, and the Oculus SDK.
 - [Rider for UE4] (https://www.jetbrains.com/lp/rider-unreal/) Visual Studio alternative for UE4 with useful functionality like built-in visual assist features and showing where classes are implemented in blueprints. 
 - [MTuner](https://github.com/milostosic/MTuner)  is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
