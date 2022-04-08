@@ -355,6 +355,7 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Cpp Cast](https://cppcast.com/) a C++ Podcast
 - [Modern C++](http://www.modernescpp.com/) A blog full of good sources
+- [Over 700 videos of talks, tutorials and explanations related to C++](https://hackingcpp.com/cpp/educational_videos.html)
 
 *Rust*
 - [rust book](https://doc.rust-lang.org/book/) Learn rust
