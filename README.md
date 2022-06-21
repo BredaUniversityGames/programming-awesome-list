@@ -344,6 +344,7 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
 - [How to debug in rust with VS Code](https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/)
 - [Using Git Sparse Checkout](https://briancoyner.github.io/articles/2013-06-05-git-sparse-checkout/)
 - [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+- [shafik/cpp_learning](https://github.com/shafik/cpp_learning) Where to get started learning C++ and what resources are there.
 
 ### Websites, Blogs, Webtools
 *Algorithms, Data Structures*
@@ -417,3 +418,5 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
  - [gamedev libraries](https://github.com/raizam/gamedev_libraries) collection of C / C++ libs for game devs
  - [Awesome CMake](https://github.com/onqtam/awesome-cmake) A curated list of awesome CMake resources, scripts, modules and examples.
  - [The Aggregate](http://aggregate.org/)
+ - [shafik/cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) Listing of C++ Youtube channels for conferences and user groups
+ - [shafik/cpp_blogs](https://github.com/shafik/cpp_blogs) C++ Blogs (plus other stuff we should care about like undefined behavior)
