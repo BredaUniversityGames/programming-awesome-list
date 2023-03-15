@@ -73,7 +73,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
   - [stb_image_write.h](https://github.com/nothings/stb/blob/master/stb_image_write.h) image writer
   - [stb_image_resize.h](stb_image_resize.h) image resizer
   - [stb_truetype.h](stb_truetype.h) font text rasterizer
- - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
+- [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
 - [Assimp](https://github.com/assimp/assimp) The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 - [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level graphics library and rendering framework
 - [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) Easy to integrate Vulkan memory allocation library
@@ -378,6 +378,7 @@ implementations](https://www.cs.ru.nl/bachelors-theses/2018/Niels_Drueten___4496
 - [vulkan-tutorial.com](https://vulkan-tutorial.com/) - A collection of vulkan tutorials
 - [VulkanGuide](https://vkguide.dev/) - The focus of this guide is to understand Vulkan correctly, and act as a stepping stone for then working in your own projects
 - [Vulkan for HLSL](https://www.lei.chat/posts/hlsl-for-vulkan-resources/) How to use HLSL for Vulkan Shaders when compiling HLSL to SPIR-V using [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler).
+- [Using the DirectXShaderCompiler API](https://simoncoenen.com/blog/programming/graphics/DxcCompiling) explains how to use the DirectXShaderCompiler API in your application. Uses the new IDxcUtils interface instead of IDxcLibrary
 - [tellusim engine blog](https://tellusim.com/blog/) - cool GPU driven blog posts: Blue noise, benchmarks between GPU's, Raytracing, Animations etc.
 - [The Danger Zone](https://therealmjp.github.io/) Blog of Matt Pettineo (Lead graphics and engine programmer at Ready At Dawn Studios)
 such as Vulkan, Directx11/12 and opengl.
