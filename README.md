@@ -49,7 +49,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [RenderDoc](https://renderdoc.org/) Render Debugger
   - [Where is my Draw](https://github.com/baldurk/renderdoc-contrib/tree/main/baldurk/whereismydraw) Addon for RenderDoc
 - [NVIDIA® Nsight™ Graphics](https://developer.nvidia.com/nsight-graphics) is a standalone developer tool that enables you to debug, profile, and export frames built with Direct3D (11, 12, DXR), Vulkan (1.2, NV Vulkan Ray Tracing Extension), OpenGL, OpenVR, and the Oculus SDK.
-- [Rider for UE4] (https://www.jetbrains.com/lp/rider-unreal/) Visual Studio alternative for UE4 with useful functionality like built-in visual assist features and showing where classes are implemented in blueprints. 
+- [Rider for UE4](https://www.jetbrains.com/lp/rider-unreal/) Visual Studio alternative for UE4 with useful functionality like built-in visual assist features and showing where classes are implemented in blueprints. 
 - [MTuner](https://github.com/milostosic/MTuner)  is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
 - [optick](https://github.com/bombomby/optick) C++ Profiler For Games
 - [Agones](https://github.com/googleforgames/agones) Host, Run and Scale dedicated game servers on Kubernetes
@@ -77,7 +77,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [Assimp](https://github.com/assimp/assimp) The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 - [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level graphics library and rendering framework
 - [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) Easy to integrate Vulkan memory allocation library
-- [Directx12 Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator) Easy to integrate directx12 memory allocation library, from the makers of Vulkan Memory Allocator.
+- [Directx12 Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator) Easy to integrate directx12 memory allocation library, from the creators of Vulkan Memory Allocator.
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) Optimized shader-based features aimed at improving rendering quality and performance.
 
 #### rust
