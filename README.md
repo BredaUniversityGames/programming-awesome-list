@@ -204,6 +204,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [BabylonJS](https://www.babylonjs.com/) -About
 Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [ThreeJS](https://threejs.org/) - JavaScript 3D library.
+- [NixieFX](https://nixiefx.com/) - Open-source particle editor and VFX runtime for Three.js and PixiJS.
 ## Engines Plugins
 ### Unreal Engine Plugins
 - [Discord Messenger](https://unrealengine.com/marketplace/en-US/product/discord-messenger)
