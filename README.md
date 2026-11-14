@@ -135,6 +135,7 @@ A curated list of useful tools, libraries, resources all around the topic of gam
 - [tmxlite](https://github.com/fallahn/tmxlite) lightweight C++14 parser for Tiled tmx files
 - [nlohmann/json](https://github.com/nlohmann/json) JSON for Modern C++ (not very fast but simple)
 - [rapidjson](https://rapidjson.org/) fast but complicated JSON lib
+- [NextJSON](https://nextjson.com/) Free online nested JSON parser and formatter (browser-based, handy for inspecting escaped JSON in logs and save files).
 
 ### Physic
 
